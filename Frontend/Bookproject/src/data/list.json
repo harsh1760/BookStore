@@ -1,0 +1,50 @@
+[
+  {
+    "id": 0,
+    "name": "Stack of Books",
+    "title": "Books stacked together for study and fun.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://images.unsplash.com/photo-1512820790803-83ca734da794"
+  },
+  {
+    "id": 1,
+    "name": "Flying Books",
+    "title": "Books turning into butterflies.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://png.pngtree.com/thumb_back/fh260/background/20250227/pngtree-books-transforming-into-butterflies-symbolizing-freedom-and-knowledge-image_17011328.jpg"
+  },
+  {
+    "id": 2,
+    "name": "World Book Day",
+    "title": "Celebrate reading with creative visuals.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://i.pinimg.com/736x/ca/b8/d2/cab8d2e12cdffd6cc1029635dac5adc6.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Magic Book",
+    "title": "A mysterious book that glows with magic.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://images.unsplash.com/photo-1519681393784-d120267933ba"
+  },
+  {
+    "id": 4,
+    "name": "Relaxing Read",
+    "title": "A lovely book to read peacefully outdoors.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://images.unsplash.com/photo-1516979187457-637abb4f9353"
+  },
+  {
+    "id": 5,
+    "name": "Children Story",
+    "title": "A colorful and engaging storybook for kids.",
+    "price": 0,
+    "category": "Free",
+    "image": "https://images.unsplash.com/photo-1553729459-efe14ef6055d"
+  }
+]
